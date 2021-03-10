@@ -1,0 +1,10 @@
+.header {
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+}
+
+
+.header img {
+    max-width: 40px;
+}
